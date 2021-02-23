@@ -6,7 +6,7 @@
 	-->
 	<html>
 	<head>
-	<title>Ghost Pay Group Limited</title>
+	<title>Fintellity Limited</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,7 +17,7 @@
 	<div class="inner">
 	<div class="wrapper padded container">
 	<a href="index.html" class="logo"></a>
-	<img class="logo" src="images/Original on Transparent.png" alt="Ghost Pay Group Limited" position="absolute" right="0" bottom="0" />
+	<img class="logo" src="images/Original on Transparent.png" alt="Fintellity Limited" position="absolute" right="0" bottom="0" />
 	<nav>
 	<a href="/index.html"><img src="/images/Original on Transparent.png"/></a>
 	</nav>
@@ -134,7 +134,7 @@ UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS T
 	<br>
 	</form>!--->
 	<div class="copyright">
-	<p>&copy; Untitled. All rights reserved. | Ghost Pay Group Limited (Company number 12582080)</p> 
+	<p>&copy; Untitled. All rights reserved. | Fintellity Limited (Company number 12582080)</p> 
 	<p><a href="/legal">Legal</a> | <a href="/terms">Terms of use</a> | <a href="/privacy">Privacy & cookie policy</a> | <a href="/security">Security policy</a></p> 
 	</div>
 	</div>
