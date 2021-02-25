@@ -3879,6 +3879,12 @@
 
 			#banner2 h1 span {
 				font-weight: 400;
+				
+			}
+			#banner2 h2 span {
+				font-weight: 400;
+				color: #2C3C5B;
+				
 			}
 
 		body.is-loading #banner:after {
