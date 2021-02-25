@@ -2254,7 +2254,7 @@
 		}
 
 	.select-wrapper:before {
-		color: #0AC5A8;
+		color: #869CB8;
 	}
 
 	input[type="checkbox"] + label,
@@ -2756,7 +2756,7 @@
 					.wrapper.style1 input[type="button"].alt.icon:before,
 					.wrapper.style1 button.alt.icon:before,
 					.wrapper.style1 .button.alt.icon:before {
-						color: #0AC5A8;
+						color: #869CB8;
 					}
 
 				.wrapper.style1 input[type="submit"].special,
@@ -2765,7 +2765,7 @@
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
 					background-color: #ffffff;
-					color: #0AC5A8 !important;
+					color: #869CB8 !important;
 				}
 
 			.wrapper.style1 label {
@@ -2796,7 +2796,7 @@
 
 			.wrapper.style1 input[type="checkbox"] + label,
 			.wrapper.style1 input[type="radio"] + label {
-				color: #0AC5A8;
+				color: #869CB8;
 			}
 
 				.wrapper.style1 input[type="checkbox"] + label:before,
@@ -2809,7 +2809,7 @@
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background-color: #ffffff;
 				border-color: #ffffff;
-				color: #0AC5A8;
+				color: #869CB8;
 			}
 
 			.wrapper.style1 input[type="checkbox"]:focus + label:before,
@@ -2819,23 +2819,23 @@
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
-				color: #0AC5A8 !important;
+				color: #869CB8 !important;
 			}
 
 			.wrapper.style1 :-moz-placeholder {
-				color: #0AC5A8 !important;
+				color: #869CB8 !important;
 			}
 
 			.wrapper.style1 ::-moz-placeholder {
-				color: #0AC5A8 !important;
+				color: #869CB8 !important;
 			}
 
 			.wrapper.style1 :-ms-input-placeholder {
-				color: #0AC5A8 !important;
+				color: #869CB8 !important;
 			}
 
 			.wrapper.style1 .formerize-placeholder {
-				color: #0AC5A8 !important;
+				color: #869CB8 !important;
 			}
 
 			.wrapper.style1 ul.alt li {
@@ -2843,7 +2843,7 @@
 			}
 
 			.wrapper.style1 header p {
-				color: #0AC5A8;
+				color: #869CB8;
 			}
 
 			.wrapper.style1 table tbody tr {
@@ -3165,7 +3165,7 @@
 		}
 
 			#header a:hover {
-				color: rgba(10, 197, 168, 1);
+				color: rgba(134, 156, 184, 1);
 			}
 
 			#header a:last-child {
