@@ -3575,6 +3575,48 @@
 
 		}
 
+/* Animated attempt*/
+@keyframes changeText {
+  0% {
+    content: "Fintech";
+  }
+  50% {
+    color: white;
+  }
+  100% {
+    content: "Intelligent";
+  }
+	  }
+  100% {
+    content: "I.T";
+  }
+  100% {
+    content: "Fintellity";
+  }
+}
+
+.element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  &:after {
+    animation: changeText 3s linear infinite alternate;
+    display: block;
+    content: "Fintech";
+    font-size: 80px;
+  }
+}
+
+
+body {
+  font-family: Georgia, serif;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
 /* Banner 2*/
