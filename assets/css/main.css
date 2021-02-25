@@ -3125,7 +3125,7 @@
 				}	
 
 		#header .logo {
-			background: url("../../images/Original on Transparent.png") no-repeat;
+			background: url("../../images/") no-repeat;
 			background-size: cover;
 			font-family: 'Montserrat', sans-sarif;
 			display: inline-block;
@@ -3145,7 +3145,7 @@
 			}
 
 			#header .logo:hover {
-				color: rgba(235, 196, 42, 0.75);
+				color: rgba(10, 197, 168, 1);
 			}
 			
 
