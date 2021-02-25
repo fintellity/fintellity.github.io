@@ -3098,8 +3098,8 @@
 	}
 
 	#header {
-		background: #BDBDC2;
-		color: #d5d5d5;
+		background: #F5F5F5;
+		color: #0AC5A8;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3165,7 +3165,7 @@
 		}
 
 			#header a:hover {
-				color: rgba(255, 255, 255, 0.75);
+				color: rgba(10, 197, 168, 1);
 			}
 
 			#header a:last-child {
