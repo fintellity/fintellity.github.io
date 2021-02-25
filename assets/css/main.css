@@ -1931,7 +1931,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #2C3C5B;
+		background-color: #F5F5F5;
 		color: #ffffff !important;
 	}
 
@@ -1940,7 +1940,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #2C3C5B;
+			background-color: #F5F5F5;
 		}
 
 		input[type="submit"]:active,
@@ -1948,7 +1948,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #2C3C5B;
+			background-color: #F5F5F5;
 		}
 
 		input[type="submit"].alt,
@@ -1966,7 +1966,7 @@
 			input[type="button"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #2C3C5B;
+				background: #F5F5F5;
 			}
 
 			input[type="submit"].alt:active,
@@ -1974,7 +1974,7 @@
 			input[type="button"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background-color: #2C3C5B;
+				background-color: #F5F5F5;
 			}
 
 			input[type="submit"].alt.icon:before,
@@ -1982,7 +1982,7 @@
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #2C3C5B;
+				color: #F5F5F5;
 			}
 
 		input[type="submit"].special,
@@ -3249,7 +3249,7 @@
 		}
 
 		.navPanelToggle *:before {
-			color: #0AC5A8;
+			color: #869CB8;
 			display: block;
 			font-size: 16px;
 			height: 2.25em;
@@ -3725,10 +3725,10 @@
 
 	#banner2 {
 		background-color: #BDBDC2;
-		color: #2C3C5B;
+		color: #869CB8;
 		padding: 13em 0 11em 0;
 		background-color: #BDBDC2;
-		background-image: url("../../images/woman on laptop.jpg");
+		background-image: url("../../images/laptopplantblues.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
@@ -3746,7 +3746,7 @@
 		}
 
 		#banner2 strong, #banner b {
-			color: #ffffff;
+			color: #2C3C5B;
 		}
 
 		#banner2 h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
