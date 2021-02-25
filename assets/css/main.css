@@ -3145,7 +3145,7 @@
 			}
 
 			#header .logo:hover {
-				color: rgba(10, 197, 168, 1);
+				color: rgba(134, 156, 184, 1);
 			}
 			
 
@@ -3157,7 +3157,7 @@
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #ffffff;
+			color: #2C3C5B;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
