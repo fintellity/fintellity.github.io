@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<!--
+	Introspect by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Fintellity Limited</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/Social Media Logo Files/Favicon/favicon-32x32.png" type="image/x-icon">
+	</head>
+	<body>
+
+		<header id="header">
+			<div class="inner">
+				<div class="wrapper padded container">
+				<a href="index.html" class="logo">
+				<img class="logo" src="images/Original on Transparent.png" alt="" style="position:absolute; top:30px; left:-30px; width:170px; height:auto; border:none;"/></a>
+				</div>
+				
+				<nav id="nav">
+					<a href="index.html">Home</a>
+					<a href="About Us.html">About Us</a>
+					<a href="Join Us.html">Join Us</a>
+					<a href="Contact Us.html">Contact Us</a>
+				</nav>
+			</div>
+	</header>
+	<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+
+
+
+		<!-- One -->
+			<section id="one">
+				<div class="inner">
+					<header>
+						<h2>One integration that provides multiple tools for Merchants to service their Consumers</h2>
+					</header>
+					
+					<ul class="fa-ul">
+					  <li><span class="fa-li"><i class="icon fa-check-circle fa-lg"></i></span>Validate KYC</li>
+					  <li><span class="fa-li"><i class="icon fa-check-circle fa-lg"></i></span>Provide Financial Profiles of the consumer</li>
+					  <li><span class="fa-li"><i class="icon fa-check-circle fa-lg"></i></span>Facilitate direct bank transfers from the Consumer to the Merchant</li>
+					</ul>
+					
+				</div>
+			</section>
+
+		<!-- Two -->
+			<!--<section id="two">
+				<div class="inner">
+						<article>
+						<div class="content">
+							<header>
+								<h4>Validate KYC</h4>
+						</header>
+							<!--<div class="image fit">
+								<img src="images/finance.jpg" alt="" />
+							</div>-->
+							<!--<p></p>
+						</div>
+					</article>
+					<article class="alt">
+						<div class="content">
+							<header>
+								<h4>Provide Financial Profiles of the consumer</h4>
+							</header>
+							<!--<div class="image fit">
+								<img src="images/fintech.jpg" alt=""/>
+							</div>-->
+							<!--<p></p>
+						</div>
+					</article>
+					<article class="alt">
+						<div class="content">
+							<header>
+								<h4>Facilitate direct bank transfers from the Consumer to the Merchant</h4>
+							</header>
+							<!--<div class="image fit">
+								<img src="images/fintech.jpg" alt=""/>
+							</div>-->
+							<!--<p></p>
+						</div>
+					</article>
+		
+				</div>
+			</section>-->
+
+		<!-- Three -->
+			<section id="two">
+				<div class="inner">
+					<article>
+						<div class="content">
+							<span class="icon fa-smile-o fa-3x"></span>
+							<header>
+								<h3>Happier consumers</h3>
+							</header>
+							<p>Receive products or services quicker with our fast decision making process</p>
+						</div>
+					</article>
+					<article>
+						<div class="content">
+							<span class="icon fa-cogs fa-3x"></span>
+							<header>
+								<h3>Automate operational processes</h3>
+							</header>
+							<p>Reduce merchants costs by using our automated system. No more need for manual processes!</p>
+	
+						</div>
+					</article>
+					<article>
+					<div class="content">
+							<span class="icon fa-arrow-circle-up fa-3x"></span>
+							<header>
+								<h3>One integration</h3>
+							</header>
+							<p>Reduce the number of suppliers in the Merchants ecosystem by using our all-in-one service</p>
+						</div>
+						
+					</article>
+					
+				</div>
+			</section>
+	
+			<!-- Main -->
+		
+
+<section id="main" >
+
+
+
+<div class="inner">
+
+
+
+<header class="major special">
+
+
+
+<h2>Who we are</h2>
+
+
+
+<p></p>
+
+
+
+</header>
+
+
+
+<a href="#" class="image fit"><img src="images/Cambridge river.jpg" alt="Cambridge"></a>
+
+<p>The founding members of Fintellity have over 20 years’ experience working in FCA regulated e-money payment institutions that are based in Cambridge (UK), specialising in high-risk sectors across Europe and the US. Experience includes designing, building, and running highly available, highly secure, cloud-based financial products, including pre-paid cards system, and card issuing and acquiring platforms.</p>
+<p>In 2013 the founders were hired as the Tech Senior Leadership Team for a young start-up company providing alternative payment methods. Responsible for recruiting teams, implementing processes, leading product delivery. Key achievements in that business included building an automated split settlement system, launching virtual prepaid cards for Europe and the US, the re-engineering of 2 server-based, non-scalable, uncompliant legacy platforms, to fully scalable, automated, cloud hosted systems within a 6-month timeframe including achieving Level 1 PCI DSS compliancy, which ultimately resulted in the company being acquired by a private equity firm for £40million. </p>
+<p>In 2017 the founders, lead the merger and IT Transformation for a scale-up company that brought together two product delivery teams, with two different tech stacks (dot net & Java) and contrasting ways of working. Responsible for restructuring teams, streamlining processes, implementing Agile practices, re-engineering the platform, and launching new products.</p>
+<p>Some achievements in that business include but are not limited to: the successful removal of a legacy Oracle database system and replaced with a SQL Server database in a Production running environment without any downtime, implementation of Change Management processes for the first ISO 27001 certification, the design and delivery of various APIs to remove legacy processes, implementation of a payments terminal host for cardholder present transactions. </p>
+</p>
+	
+	<h2> Our Promise</h2>
+
+	<p><b>At Fintellity we take ethics seriously, which is why we promise to:</b> </p>
+
+	<h4>DONATE</h4> – <p>We will make annual donations to our partner charities that deal with gambling- related harm for Research, Prevention & Treatment (RET).</p>
+
+	<h4>VOLUNTEER</h4> – <p>We will give back to our local communities.</p> 
+<p>All staff are encouraged to take one paid day off, to complete a volunteering project for one of our partner charities.</p> 
+
+	<h4>FUND RAISE</h4> – <p>We will raise money for charities related to debt and mental health.</p>
+	<p>All staff are invited to take part in Pledge Challenges.</p>
+
+
+
+
+</div>
+
+
+
+</section>
+
+	
+		<!-- Banner2 -->
+			<section id="banner2">
+				<div class="inner">
+					<h2 style="color:#2C3C5B">Contact Us</h2>
+					<p>If you would like to understand more about how Fintellity can help your business, please do not hesitate to contact us.</p>
+					<br>
+					<p>Get in touch with us at: <strong>info@fintellity.com</strong></p>
+				
+				</div>
+			</section>
+
+			
+				<!---<section id="two">
+				<div class="inner">
+					<header class="major special">
+						<h1>Get In Touch</h1>
+						<a href="#" class="image fit"><img src="images/contact us.jpg" alt="" height:"auto"/></a>
+						<p> If you would like to understand more about how GPG can help your business, please do not hesitate to contact us.</p>
+					<br>
+					<p>Get in touch with us at: <strong>info@ghostpaygroup.com</strong></p>
+					</header>
+					<br>
+					<br>
+					<br>
+					<br>
+					
+				</div>
+			</section>!--->
+
+		<!-- Footer -->
+			<section id="footer">
+				<div class="inner">
+					<!---<header>
+						<h2>Get in Touch</h2>
+					</header>
+					<form method="post" action="#">
+						<div class="field half first">
+							<label for="name">Name</label>
+							<input type="text" name="name" id="name" />
+						</div>
+						<div class="field half">
+							<label for="email">Email</label>
+							<input type="text" name="email" id="email" />
+						</div>
+						<div class="field">
+							<label for="message">Message</label>
+							<textarea name="message" id="message" rows="6"></textarea>
+						</div>
+						<ul class="actions">
+							<li><input type="submit" value="Send Message" class="alt" /></li>
+						</ul>
+					<h3> Are you a business? We would love to hear from you!</h3>
+					<br>
+					<p>Get in touch with us at: <strong>info@ghostpaygroup.com</strong></p>
+					<br>
+					<br>
+					<br>
+					<br>
+					</form>!--->
+					<div class="copyright">
+				     		<p>&copy; Untitled. All rights reserved. | Fintellity Limited (Company number 12582080)</p> 
+				     		<p><a href="/legal">Legal</a> | <a href="/terms">Terms of use</a> | <a href="/privacy">Privacy & cookie policy</a> | <a href="/security">Security policy</a></p>          
+					</div>
+			
+				</div>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
